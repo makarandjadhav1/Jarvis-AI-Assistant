@@ -1,4 +1,4 @@
-<h1 align="center">AI Voice Assistant</h1>
+<h1 align="center">Jarvis Voice Assistant</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python Version">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Project Status">
