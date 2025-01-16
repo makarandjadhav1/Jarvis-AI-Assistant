@@ -37,7 +37,7 @@ def take_command():
 
 # Get current weather
 def get_weather(city):
-    api_key = 'YOUR_API_KEY'  # Replace with your OpenWeatherMap API key
+    api_key = 'd3030df4fde2c422013719ab708a82ff'  # Replace with your OpenWeatherMap API key
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
     response = requests.get(url).json()
     if response.get('main'):
